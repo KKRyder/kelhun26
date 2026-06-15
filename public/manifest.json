@@ -1,0 +1,21 @@
+{
+  "name": "KelHun 26",
+  "short_name": "KelHun 26",
+  "description": "FIFA World Cup 2026 Prediction League",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0A1628",
+  "theme_color": "#0A1628",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
